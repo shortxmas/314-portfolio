@@ -17,20 +17,20 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "shortxmas",
         "url": "http://github.com/shortxmas"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Leighton Miguel",
         "url": "https://www.linkedin.com/in/leighton-miguel-82aa96290/"
       }
     ]
   },
   "interests": [
-    { "name": "Full Stack Web & Mobile Development" },
-    { "name": "DevOps" },
-    { "name": "Cloud Computing" }
+    { "name": "Full Stack Web & Mobile Development"},
+    { "name": "DevOps"},
+    { "name": "Cloud Computing"}
   ],
   "skills": [
     {
