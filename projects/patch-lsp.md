@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/patch/patch.png
-title: "Devplate"
+image: img/patch-lsp/patch.png
+title: "Patch-LSP"
 date: 2024
 published: true
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: "LSP provider for Patch-IDE"
 ---
 
-<img class="img-fluid" src="../img/patch/patch.png">
+<img class="img-fluid" src="../img/patch-lsp/patch.png">
 
 Patch-lsp is the LSP provider for the <a target="_blank" href="https://codepatch.org/">Patch </a> web browser code editor, providing things like function autocomplete, syntax error highlighting and code formatting. 
 
