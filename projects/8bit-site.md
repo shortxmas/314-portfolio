@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/8bit/logo.webp
-title: "8bit website"
+title: "8bit Website"
 date: 2024
 published: true
 labels:
