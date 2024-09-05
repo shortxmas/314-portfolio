@@ -4,7 +4,7 @@ type: project
 image: img//devplate/logo.png
 title: "Devplate"
 date: 2014
-published: false
+published: true
 labels:
   - Open Source Project
   - Developer Tooling
