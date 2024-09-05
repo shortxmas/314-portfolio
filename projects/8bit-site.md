@@ -17,7 +17,8 @@ labels:
 summary: "The official website for 8bit UH Manoa."
 ---
 
-<img class="img-fluid" src="../img/8bit/logo.webp>
+<img class="img-fluid" src="../img/8bit/logo.webp">
+
 <hr> 
 
 This website contains all organization information including members, services, projects and how to join. It also has an online learning portal used to teach new 8bit members the tech stack(s) of the organization.
