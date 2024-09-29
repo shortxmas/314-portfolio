@@ -13,6 +13,7 @@ labels:
 
 As someone who has extensively used coding standards in software development, both during internships and personal projects, I’ve come to recognize their impact on the quality of code. In this essay, I’ll explain my thoughts on coding standards, compare them to other software engineering practices, and reflect on their role in maintaining clean and efficient codebases.
 
+
 <h3>More Than Just Formatting Rules</h3>
 
 For me, coding standards are much more than just formatting rules, they're an important component of writing maintainable and collaborative code. Much like the structured type system in TypeScript, coding standards introduce consistency and clarity, making it easier for developers to collaborate on the same project. Without these standards, the codebase could quickly become difficult to navigate and prone to errors, particularly as the project scales.
