@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Non-Creative Developer's Relationship with UI Frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2024-010-09
+date: 2024-10-09
 published: true
 labels:
 ---
