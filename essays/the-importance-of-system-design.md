@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Importance of Good System Design"
+title: "The Importance of System Design"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-04
 published: true
@@ -10,7 +10,7 @@ labels:
 
 <img class="img-fluid" src="../img/sys/sys.png">
 
-# The Importance of Good System Design
+# The Importance of System Design
 
 In the field of software engineering, good system design is the foundation for creating scalable, maintainable, and robust applications. It ensures that software not only meets current requirements but also adapts gracefully to future changes. Central to achieving this adaptability and efficiency is the use of design patterns—proven solutions to common challenges encountered in software development. Design patterns simplify complex problems, promote reusability, and ensure that codebases remain maintainable as projects grow in complexity.
 
