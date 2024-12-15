@@ -83,11 +83,34 @@
   ],
   "work": [
     {
+      "company": "MC3 Technologies",
+      "position": "DevSecOps Intern",
+      "website": "",
+      "startDate": "2024-12-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Hawaii Economic Research Organization (UHERO)",
+      "position": "DevOps Software Developer",
+      "website": "https://uhero.hawaii.edu",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Automated website deployment to organization staging and production servers with CI/CD pipelines using self-hosted GitHub Action runners, eliminating 20 minutes of manual update deployment time",
+        "Configured Red Hat Linux staging environments for three organization applications, enabling thorough pre-production testing and eliminating production deployment risk",
+        "Streamlined application build process by introducing Docker for containerized application runs, reducing build times by 40% and standardizing deployment across environments"
+      ]
+    },
+    {
       "company": "Manoa Now",
       "position": "Lead Web & Mobile App Developer",
       "website": "",
       "startDate": "2023-08-01",
-      "endDate": "Present",
+      "endDate": "2024-11-01",
       "summary": "",
       "highlights": [
         "Automated FTP server image uploading with the use of JavaScript and a server-side PHP script, enabling the upload of over 20 gigabytes of image assets",
