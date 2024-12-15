@@ -30,7 +30,8 @@
   "interests": [
     { "name": "Full Stack Web & Mobile Development" },
     { "name": "DevOps" },
-    { "name": "Cloud Computing" }
+    { "name": "Cloud Computing" },
+    { "name": "Platform Engineering" }
   ],
   "skills": [
     {
