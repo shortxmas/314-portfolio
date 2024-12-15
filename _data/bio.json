@@ -28,19 +28,17 @@
     ]
   },
   "interests": [
-    { "name": "Full Stack Web & Mobile Development"},
-    { "name": "DevOps"},
-    { "name": "Cloud Computing"}
+    { "name": "Full Stack Web & Mobile Development" },
+    { "name": "DevOps" },
+    { "name": "Cloud Computing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [
-        "C",
-        "HTML/CSS",
+        "HTML & CSS",
         "Java",
-        "JavaScript (Express, Node, React, React Native)",
-        "TypeScript",
+        "JavaScript & TypeScript (Next, Node, React, React Native)",
         "Python (Django)"
       ]
     },
@@ -49,26 +47,20 @@
       "keywords": ["PostgreSQL", "MySQL"]
     },
     {
-      "name": "DevOps & Cloud",
+      "name": "DevOps & Infrastructure",
       "keywords": [
-        "AWS (App Runner, EC2, ECS, ECR, Lambda, S3)",
+        "Ansible",
+        "AWS",
         "Docker",
-        "Expo",
-        "Firebase",
-        "Git",
-        "GCP (Cloud Run)",
-        "Linux"
+        "GitHub Actions",
+        "Kubernetes (MicroK8s)",
+        "Linux (RedHat, Ubuntu)",
+        "Nginx"
       ]
     },
     {
-      "name": "General Skills",
-      "keywords": [
-        "Agile Workflows",
-        "Cloud Computing",
-        "DevOps",
-        "Full-Stack Mobile & Web Development",
-        "Project Management"
-      ]
+      "name": "Developer Tools",
+      "keywords": ["Expo", "Firebase", "Git", "Webpack"]
     }
   ],
   "education": [
@@ -89,8 +81,7 @@
       "startDate": "2024-12-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "University of Hawaii Economic Research Organization (UHERO)",
