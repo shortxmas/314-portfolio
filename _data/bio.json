@@ -71,7 +71,7 @@
       "studyType": "B.A.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": []
+      "courses": ["Algorithms", "Data Structures", "Database Systems", "Discrete Mathematics", "Object Oriented Programming", "Operating Systems", "Program Structures", "Software Engineering"]
     }
   ],
   "work": [
