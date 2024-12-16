@@ -71,7 +71,16 @@
       "studyType": "B.A.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": ["Algorithms", "Data Structures", "Database Systems", "Discrete Mathematics", "Object Oriented Programming", "Operating Systems", "Program Structures", "Software Engineering"]
+      "courses": [
+        "Algorithms",
+        "Data Structures",
+        "Database Systems",
+        "Discrete Mathematics",
+        "Object Oriented Programming",
+        "Operating Systems",
+        "Program Structures",
+        "Software Engineering"
+      ]
     }
   ],
   "work": [
@@ -140,8 +149,17 @@
       ]
     }
   ],
-  "volunteer": [],
-  "awards": [],
+  "volunteer": [
+    {
+      "company": "8bit at UH Manoa",
+      "position": "Founder & Software Team Leader",
+      "website": "https://8bithawaii.org",
+      "startDate": "2024-04-20",
+      "endDate": "Present",
+      "summary": "Lead the development of client and open source software while providing UH student with practical software development experience in modern tech stacks.",
+      "highlights": []
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
