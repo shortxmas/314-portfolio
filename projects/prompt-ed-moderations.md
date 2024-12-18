@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/prompt-ed/apple-touch-icon.png
 title: "Prompt-ed Moderations"
-date: 2024
+date: June 2024
 published: true
 labels:
   - AWS Lambda

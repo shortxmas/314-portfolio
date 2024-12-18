@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img//devplate/logo.png
-title: "Devplate"
+image: img/mbl.png
+title: "Manoa Bites"
 date: November 2024
 published: true
 labels:
@@ -11,7 +11,7 @@ labels:
 summary: "Find out where to eat at UH Manoa."
 ---
 
-<img class="img-fluid" src="../img/mbl.png">
+<img class="img-fluid" src="../img/mbl2.jpg">
 
 Manoa Bites is my Software Engineering class final project where we aimed to solve the problem of finding what/where to eat on UH Manoa Campus.
 Using the ICS 314 development template which comes with built in auth and CMS capabilities, we were able to create a website to solve this problem.
