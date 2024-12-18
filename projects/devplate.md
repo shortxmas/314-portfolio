@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img//devplate/logo.png
 title: "Devplate"
-date: August 2024
+date: 8/2024
 published: true
 labels:
   - Open Source Project

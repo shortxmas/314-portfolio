@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/patch-lsp/patch.png
 title: "Patch-LSP"
-date: June 2024
+date: 6/2024
 published: true
 labels:
   - Language Server Protocol

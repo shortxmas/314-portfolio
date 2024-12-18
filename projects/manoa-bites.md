@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/mbl.png
 title: "Manoa Bites"
-date: November 2024
+date:  10/2024
 published: true
 labels:
   - School Project
